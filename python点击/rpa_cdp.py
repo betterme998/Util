@@ -1,4 +1,5 @@
 #"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --remote-debugging-port=9222 --user-data-dir="D:\edge_rpa_profile" 用调试模式启动 Edge
+#手动点击左侧菜单进入【订单管理】->【发货单列表】
 # D:\代码\工具\浏览器点击
 # python rpa_cdp.py
 import asyncio
